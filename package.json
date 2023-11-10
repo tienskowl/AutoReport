@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "dayjs": "^1.10.3"
   }
 }
